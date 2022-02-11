@@ -3,7 +3,7 @@
 /**
  * main - Main print a message in screen
  *
- * return: Always 0 (succes) a 0 returns in the screen
+ * Return: Always 0 (succes) a 0 returns in the screen
  */
 int main(void)
 {

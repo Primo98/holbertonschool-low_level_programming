@@ -1,12 +1,11 @@
 #include <stdio.h>
-
 /**
-  * main - print message to console
+  * main - main serves as the starting point for program execution
   *
-  * Return: a 0 (zero) is returned when executing the script
+  * Return: Always 0 (Success) at the time of execution
   */
 int main(void)
 {
-puts("\"programming is like building a multilingual puzzle);
+puts("\"Programming is like building a multilingual puzzle");
 return (0);
 }
